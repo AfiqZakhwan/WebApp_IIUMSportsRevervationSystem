@@ -34,6 +34,7 @@ GitHub Link:
 
 This project proposes to develop IIUM Sports Reservation System primarily for IIUM students. This system will be built using Laravel MVC that will allow users to reserve both indoor and outdoor sports courts and fields for activities such as volleyball, ping pong, badminton, and archery. To make the reservation, users must register on the website using their full name, matric number, phone number, email, and setting up the password. Small fees, as low as RM2, are needed per session and will go to management for maintenance. The system will manage the slots availability based on court or field type from 7.00am to 7.00pm, and from 9.00am to 11.00pm to honor the during prayer time. Furthermore, the users can rent items provided based on the court type chosen, such as badminton racket and badminton shoes for users who reserve the badminton court. 
 
+---
 
 ## 1.2 PROBLEM STATEMENT
 
@@ -49,6 +50,8 @@ The specific problems with the current unavailability of booking process include
 - Management has no easy way to generate usage reports or monitor court demand
 - Student using the facilities for a long period of time, preventing other students from accessing them
 - Some facilities are in bad condition, which can lead to injuries for students who are using them.
+
+---
 
 ## 1.3 PROJECT OBJECTIVE
 
@@ -66,10 +69,11 @@ The objectives of developing the IIUM Sports Reservation System are:
 
 6. To improve the condition and maintenance of sports facilities through proper fee collection and management monitoring. 
 
+---
 
 ## 1.4 PROJECT SCOPE
 
-## 1.4.1 Scope
+### 1.4.1 Scope
 
 The IIUM Sports Reservation System is a web-based application developed using the Laravel MVC framework. The system focuses on managing reservation activities for sports courts and fields within IIUM. The scope of the system includes:
 - User registration and login using matric number and password
@@ -83,13 +87,13 @@ The IIUM Sports Reservation System is a web-based application developed using th
 
 The system will only be accessible to IIUM students and management staff through a web browser.
 
-## 1.4.2 Targeted User
+### 1.4.2 Targeted User
 
 The targeted users for the IIUM Sports Reservation System are:
 - IIUM students who want to reserve sports courts or fields  
 - Sports centre management staff responsible for monitoring reservations and facility maintenance
 
-## 1.4.3 Specific Platform
+### 1.4.3 Specific Platform
 
 The system will be developed as a web application using the following platform and technologies:
 
@@ -109,13 +113,20 @@ The system will be developed as a web application using the following platform a
 - Stable internet connection for online reservation access  
 - Localhost server during development and web hosting server during deployment
 
+<br>
 
 Sequence Diagram
-<img width="546" height="591" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/bf9a6692-cd01-4b94-b76b-8e1a743488f2" />
+
+<img width="546" height="591" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/bf9a6692-cd01-4b94-b76b-8e1a743488f2" /><br>
+
+<br>
 
 Entity Relationship Diagram (ERD):
-<img width="537" height="398" alt="ERD" src="https://github.com/user-attachments/assets/bfd67cb3-3a36-4301-9f56-9a53ac97a127" />
 
+<img width="537" height="398" alt="ERD" src="https://github.com/user-attachments/assets/bfd67cb3-3a36-4301-9f56-9a53ac97a127" /><br>
+
+
+---
 
 ## 1.5 CONSTRAINTS
 
@@ -128,10 +139,62 @@ Developing the IIUM Sports Reservation System involves several critical constrai
 
 - Shariah & Scope Alignment: All system logic, features, and content must strictly adhere to Shariah-compliant guidelines specified by the Kulliyyah.
 
+---
 
 ## 1.6 PROJECT STAGES
 
 The development lifecycle is divided into two main parts, broken down into the following milestones:
 
 Milestone Breakdown:
+- **Phase 1: Project Initiation & Proposal (Week 11):** Defining system scope, designing the Entity Relationship Diagram (ERD) and Sequence Diagram, and preparing the GitHub proposal draft. 
 
+- **Phase 2: Local Database & Backend Setup (Week 12):** Configuring the local server environment, migrating MySQL database tables using phpMyAdmin based on the ERD, and setting up secure User Authentication. 
+
+- **Phase 3: Frontend & CRUD Integration (Week 13):** Building user interfaces using the Blade Engine and developing controllers to handle real-time court availability, bookings, and equipment rentals. 
+
+- **Phase 4: Testing & Final Presentation (Week 14):** Conducting local system testing to eliminate bugs, documenting the final report on GitHub, and delivering the live 15-minute presentation. 
+
+<br> Gantt Chart <br>
+
+<img width="540" height="146" alt="Gantt Chart" src="https://github.com/user-attachments/assets/14e2723c-9748-4863-9c4e-83a5a2176744" />
+
+---
+
+## 1.7 SIGNIFICANCE OF THE PROJECT
+
+The IIUM Sports Reservation System delivers meaningful advantages to both primary user groups by transforming a manual, physical process into a streamlined digital experience. 
+
+a. For IIUM Students 
+- Eliminates Wasted Trips: Students gain immediate, real-time visibility into court and field availability, eliminating the need to walk to sports areas just to check open slots. 
+
+- Convenient Resource Access: Allows students to securely book slots and rent necessary equipment (like badminton rackets and shoes) from any web browser. 
+
+- Guarantees Fair Play: By automating booking rules and setting strict duration limits, the system prevents single groups from hogging facilities for excessive periods. 
+
+- Enhances Safety: The implementation of a structured fee model provides resources to fix broken amenities, greatly reducing the risk of sports-related injuries. 
+
+b. For Sports Centre Management Staff 
+- Automates Administration: Drastically reduces manual paperwork by taking over scheduling, payment logging, and equipment tracking. 
+
+- Data-Driven Insights: Empowers the management team to effortlessly monitor court demand and generate comprehensive facility usage reports.  
+
+- Optimised Maintenance Funds: Establishes an organised, transparent system to collect and record the RM2 maintenance fees required to sustain facility conditions. 
+
+- Effortless Policy Enforcement: Systematically enforces operating hours and automatically respects daily prayer time closures without requiring constant human oversight.
+
+---
+
+## 1.8 SUMMARY
+
+The IIUM Sports Reservation System is a web-based solution engineered using the Laravel MVC framework to replace the university’s currently non-existent booking infrastructure. By resolving core operational pain points such as lack of real-time visibility, unfair facility hoarding, and deteriorating court conditions, the application successfully bridges the gap between student convenience and administrative control. 
+
+Through features like live slot tracking, automated equipment rentals, and an affordable RM2 maintenance fee model, the system promotes fair access and a safer sporting environment. Developed systematically across four strategic phases using open-source tools (XAMPP, PHP, and MySQL), this project adheres to strict Kulliyyah timelines and Shariah-compliant guidelines, culminating in a fully functional, bug-free live system demonstration by Week 14. 
+
+---
+
+## 1.9 REFERENCES
+1. Otwell, T. (2026). Laravel documentation: The PHP framework for web artisans. Laravel.  
+https://laravel.com/docs 
+
+2. Wang, L. (2017). Design and implementation of online booking system of university sports venues. MATEC Web of Conferences, 100, 02024.  
+https://doi.org/10.1051/matecconf/201710002024 
