@@ -72,7 +72,6 @@ The objectives of developing the IIUM Sports Reservation System are:
 ## 1.4.1 Scope
 
 The IIUM Sports Reservation System is a web-based application developed using the Laravel MVC framework. The system focuses on managing reservation activities for sports courts and fields within IIUM. The scope of the system includes:
-
 - User registration and login using matric number and password
 - Viewing real-time availability of sports courts and fields
 - Online reservation for indoor and outdoor sports facilities
@@ -89,4 +88,50 @@ The system will only be accessible to IIUM students and management staff through
 The targeted users for the IIUM Sports Reservation System are:
 - IIUM students who want to reserve sports courts or fields  
 - Sports centre management staff responsible for monitoring reservations and facility maintenance
+
+## 1.4.3 Specific Platform
+
+The system will be developed as a web application using the following platform and technologies:
+
+**Software Requirements**
+- Laravel framework
+- PHP programming language
+- MySQL database
+- HTML, CSS, and JavaScript for frontend development  
+- XAMPP or Laragon as local server environment
+
+**Hardware Requirements** 
+- Laptop or desktop computer for development  
+- Internet connection for accessing the system  
+- Web browser such as Google Chrome or Mozilla Firefox  
+
+ **Network Requirements**
+- Stable internet connection for online reservation access  
+- Localhost server during development and web hosting server during deployment
+
+
+Sequence Diagram
+<img width="546" height="591" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/bf9a6692-cd01-4b94-b76b-8e1a743488f2" />
+
+Entity Relationship Diagram (ERD):
+<img width="537" height="398" alt="ERD" src="https://github.com/user-attachments/assets/bfd67cb3-3a36-4301-9f56-9a53ac97a127" />
+
+
+## 1.5 CONSTRAINTS
+
+Developing the IIUM Sports Reservation System involves several critical constraints that the development team must navigate to ensure successful delivery: 
+- Strict Timeline: The fully functional, error-free web application must be completed and ready for a live presentation by Week 14. 
+
+- Laravel Learning Curve: The team must quickly master and implement advanced framework components like Eloquent ORM, Blade Engine, and complex Controller routing under a tight deadline. 
+
+- Resource Limitations: Development relies entirely on local open-source setups (XAMPP, MySQL, and GitHub) due to a lack of budget for live deployment or paid third-party tools. 
+
+- Shariah & Scope Alignment: All system logic, features, and content must strictly adhere to Shariah-compliant guidelines specified by the Kulliyyah.
+
+
+## 1.6 PROJECT STAGES
+
+The development lifecycle is divided into two main parts, broken down into the following milestones:
+
+Milestone Breakdown:
 
