@@ -2,3 +2,70 @@
 
 [Document 4.pdf](https://github.com/user-attachments/files/28193988/Document.4.pdf)
 
+KULLIYYAH OF INFORMATION AND COMMUNICATION TECHNOLOGY
+
+SEMESTER II, 2025/2026
+
+BIIT 2305 - Web Application Development
+
+Project Proposal
+
+Lecturer: Dr Najhan bin Muhamad Ibrahim
+
+Section: 5
+
+Group 1
+
+Project Title: IIUM Sports Reservation System
+
+1. AHMAD AMMAR NAJMI BIN NAJMUDDIN | 2410419
+2. AHMAD AFNAN WAJDI BIN RAHIMI | 2414347
+3. MUHAMMAD AFIQ ZAKHWAN BIN AZZURAN | 2329169
+4. MUHAMMAD HAZMI BIN MOHD HAFIZ | 2419201
+
+Date: 24 May 2026
+
+GitHub Link:
+
+------------------------------------------------------------------------------------------------------
+
+## 1.1 INTRODUCTION
+
+This project proposes to develop IIUM Sports Reservation System primarily for IIUM students. This system will be built using Laravel MVC that will allow users to reserve both indoor and outdoor sports courts and fields for activities such as volleyball, ping pong, badminton, and archery. To make the reservation, users must register on the website using their full name, matric number, phone number, email, and setting up the password. Small fees, as low as RM2, are needed per session and will go to management for maintenance. The system will manage the slots availability based on court or field type from 7.00am to 7.00pm, and from 9.00am to 11.00pm to honor the during prayer time. Furthermore, the users can rent items provided based on the court type chosen, such as badminton racket and badminton shoes for users who reserve the badminton court. 
+
+
+## 1.2 PROBLEM STATEMENT
+
+### 1.2.1 Background of the problem
+
+Currently there are no reservation systems for any of the sports courts or fields. Students have no way of checking real time availability without physically going to the sports places. This process is highly inefficient and leads to disappointment for students who are staying far away from the sports areas. Other than that, some of the sports facilities are in bad condition due to lack of proper maintenance from management. This is not only unacceptable, but the students can get injured while using the facilities that are not properly maintained. To tackle all these problems, IIUM Sports Reservation System is developed to allow all users to check the real time slot availability, booking management, and fee recording. It is designed to be easily accessible to almost every university student using a web browser on their devices. 
+
+### 1.2.2 Problem Statement
+
+The specific problems with the current unavailability of booking process include: 
+- No real-time visibility of court availability, leading to wasted trips and scheduling conflicts
+- No enforcement of booking rules since there is no automated system
+- Management has no easy way to generate usage reports or monitor court demand
+- Student using the facilities for a long period of time, preventing other students from accessing them
+- Some facilities are in bad condition, which can lead to injuries for students who are using them.
+
+## 1.3 PROJECT OBJECTIVE
+
+The objectives of developing the IIUM Sports Reservation System are: 
+
+1. To develop a web-based reservation system for IIUM students to book sports courts and fields online easily and efficiently.  
+
+2. To provide real-time availability of sports facilities so that students can check available slots without needing to visit the sports areas physically.  
+
+3. To automate the booking management process, including reservation scheduling, payment recording, and equipment rental management.  
+
+4. To help management monitor facility usage, generate booking reports, and manage maintenance fees collected from users.  
+
+5. To ensure fair usage of sports facilities by limiting booking duration and preventing users from occupying facilities for excessive periods of time.  
+
+6. To improve the condition and maintenance of sports facilities through proper fee collection and management monitoring. 
+
+
+## 1.4 PROJECT SCOPE
+
+## 1.4.1 Scope
