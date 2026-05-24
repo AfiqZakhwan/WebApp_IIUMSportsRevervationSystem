@@ -2,31 +2,34 @@
 
 [Group 1_Proposal BIIT 2305 Group Project.pdf](https://github.com/user-attachments/files/28195010/Group.1_Proposal.BIIT.2305.Group.Project.pdf)
 
+<img width="551" height="91" alt="image" src="https://github.com/user-attachments/assets/c0fc8500-0b96-4b9a-aa03-1b6129d7af6c" />
 
-KULLIYYAH OF INFORMATION AND COMMUNICATION TECHNOLOGY
+<br>**KULLIYYAH OF INFORMATION AND COMMUNICATION TECHNOLOGY**
 
-SEMESTER II, 2025/2026
+**SEMESTER II, 2025/2026**
 
-BIIT 2305 - Web Application Development
+**BIIT 2305 - Web Application Development**
 
-Project Proposal
+**Project Proposal**
 
 Lecturer: Dr Najhan bin Muhamad Ibrahim
 
-Section: 5
+**Section: 5**
 
-Group 1
+**Group 1**
 
-Project Title: IIUM Sports Reservation System
+**Project Title: IIUM Sports Reservation System**
 
-1. AHMAD AMMAR NAJMI BIN NAJMUDDIN | 2410419
-2. AHMAD AFNAN WAJDI BIN RAHIMI | 2414347
-3. MUHAMMAD AFIQ ZAKHWAN BIN AZZURAN | 2329169
-4. MUHAMMAD HAZMI BIN MOHD HAFIZ | 2419201
+| No. | Name  | Matric No.  |
+| --- | :---- | ----------- |
+| 1.  | AHMAD AFNAN WAJDI BIN RAHIMI | 2414347 |
+| 2.  | AHMAD AMMAR NAJMI BIN NAJMUDDIN | 2410419 |
+| 3.  | MUHAMMAD AFIQ ZAKHWAN BIN AZZURAN | 2329169 |
+| 4.  | MUHAMMAD HAZMI BIN MOHD HAFIZ | 2419201 |
 
-Date: 24 May 2026
+**Submission Date: 24 May 2026**
 
-GitHub Link:
+**GitHub Link:** https://github.com/AfiqZakhwan/WebApp_IIUMSportsRevervationSystem.git
 
 ------------------------------------------------------------------------------------------------------
 
