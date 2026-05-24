@@ -1,6 +1,7 @@
 # WebApp_IIUMSportsRevervationSystem
 
-[Document 4.pdf](https://github.com/user-attachments/files/28193988/Document.4.pdf)
+[Group 1_Proposal BIIT 2305 Group Project.pdf](https://github.com/user-attachments/files/28195010/Group.1_Proposal.BIIT.2305.Group.Project.pdf)
+
 
 KULLIYYAH OF INFORMATION AND COMMUNICATION TECHNOLOGY
 
@@ -69,3 +70,23 @@ The objectives of developing the IIUM Sports Reservation System are:
 ## 1.4 PROJECT SCOPE
 
 ## 1.4.1 Scope
+
+The IIUM Sports Reservation System is a web-based application developed using the Laravel MVC framework. The system focuses on managing reservation activities for sports courts and fields within IIUM. The scope of the system includes:
+
+- User registration and login using matric number and password
+- Viewing real-time availability of sports courts and fields
+- Online reservation for indoor and outdoor sports facilities
+- Booking schedule management based on available time slots  
+- Rental of sports equipment according to selected sports activities
+- Payment and fee recording for reservations and equipment rentals
+- Management of booking records and facility usage reports
+- Limiting booking duration to ensure fair access for all students
+
+The system will only be accessible to IIUM students and management staff through a web browser.
+
+## 1.4.2 Targeted User
+
+The targeted users for the IIUM Sports Reservation System are:
+- IIUM students who want to reserve sports courts or fields  
+- Sports centre management staff responsible for monitoring reservations and facility maintenance
+
