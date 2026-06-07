@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('images/IIUM_emblem.png')); ?>" class="h-10 w-auto object-contain" alt="IIUM Logo"><?php /**PATH C:\Users\hazmi\Downloads\IIUM_Sports_Updated\project\resources\views/components/application-mark.blade.php ENDPATH**/ ?>

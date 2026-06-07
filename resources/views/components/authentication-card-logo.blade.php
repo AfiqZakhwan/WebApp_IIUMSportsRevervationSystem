@@ -1,0 +1,1 @@
+<img src="{{ asset('images/IIUM_emblem.png') }}" class="h-16 w-auto object-contain" alt="IIUM Logo">
