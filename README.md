@@ -318,7 +318,7 @@ The layout follows a responsive card-based grid structure. The student dashboard
 
 <img width="1154" height="624" alt="5 2 Admin Dashboard" src="https://github.com/user-attachments/assets/870fdce0-26b2-4095-b51f-9f5b5a46041a" />
 
-<br>##**5.3 Navigation and Links**
+<br>## **5.3 Navigation and Links**
 
 Navigation is role-based and dynamically rendered through Blade directives. Students see "Dashboard" and "My Bookings" in the top navbar, while administrators access a persistent left sidebar containing links to Dashboard, Venues, Equipment, Bookings, and Users. The navbar also displays the authenticated user's name with a dropdown for profile and logout actions.
 
