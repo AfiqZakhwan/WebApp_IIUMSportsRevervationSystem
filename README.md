@@ -316,9 +316,9 @@ The typography uses a clear sans-serif system font stack, prioritising legibilit
 
 The layout follows a responsive card-based grid structure. The student dashboard arranges venue cards in a two-column grid, scaling appropriately across screen sizes. The admin panel adopts a two-panel layout — a fixed dark green sidebar for primary navigation and a white content area for data tables and stat cards. Stat cards on the admin dashboard display key metrics (Total Students, Total Revenue, Total Bookings, Active Venues) in a four-column grid, providing administrators with a quick operational overview at a glance.
 
-<img width="1154" height="624" alt="5 2 Admin Dashboard" src="https://github.com/user-attachments/assets/870fdce0-26b2-4095-b51f-9f5b5a46041a" />
+<img width="1154" height="624" alt="5 2 Admin Dashboard" src="https://github.com/user-attachments/assets/870fdce0-26b2-4095-b51f-9f5b5a46041a" /><br>
 
-<br>## **5.3 Navigation and Links**
+## **5.3 Navigation and Links**
 
 Navigation is role-based and dynamically rendered through Blade directives. Students see "Dashboard" and "My Bookings" in the top navbar, while administrators access a persistent left sidebar containing links to Dashboard, Venues, Equipment, Bookings, and Users. The navbar also displays the authenticated user's name with a dropdown for profile and logout actions.
 
